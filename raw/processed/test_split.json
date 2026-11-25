@@ -1,0 +1,642 @@
+[
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000234.jpg",
+    "target": "<OCR>どこから飛んでくるか丸わかりだ<FURI>どこから とん でくるか まる わかりだ<TRANS>I can almost see the bullets<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001445.jpg",
+    "target": "<OCR>お前を喰らってやる!!<FURI>お まえ を くらっ てやる ! !<TRANS>i'll eat you!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000023.jpg",
+    "target": "<OCR>流しのガンマンをしているシオラと申します<FURI>ながし の がんまん をしている しおら と もうし ます<TRANS>I'm siora, a gunman<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001133.jpg",
+    "target": "<OCR>お姉ちゃんの事故<FURI>お ねえちゃん の じこ<TRANS>The reason of the accident...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000514.jpg",
+    "target": "<OCR>だってお父さん全然帰って来ないし...<FURI>だってお とうさん ぜんぜん かえっ て こない し . . .<TRANS>it's cause you didn't come home...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001083.jpg",
+    "target": "<OCR>!<FURI>!<TRANS>!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000958.jpg",
+    "target": "<OCR>店長が一緒だもん<FURI>てんちょう が いっしょ だもん<TRANS>because you're with me!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001220.jpg",
+    "target": "<OCR>アンタが大きなお世話なのよッ<FURI>あんた が おおき なお せわ なのよ っ<TRANS>None of your business!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000781.jpg",
+    "target": "<OCR>ボク服は大きめがいいな!<FURI>ぼく ふく は おおき めがいいな !<TRANS>I think larger clothes will be better.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000788.jpg",
+    "target": "<OCR>ピーラー?<FURI>ぴーらー ?<TRANS>a peeler?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000130.jpg",
+    "target": "<OCR>そんな目にあってまで!!<FURI>そんな めに あってまで ! !<TRANS>look what happened to you!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001221.jpg",
+    "target": "<OCR>ハイハイ<FURI>はいはい<TRANS>Okay\nOkay<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001576.jpg",
+    "target": "<OCR>俺にはもう<FURI>おれ にはもう<TRANS>i can't...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001393.jpg",
+    "target": "<OCR>その願い<FURI>その ねがい<TRANS>that wish<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000327.jpg",
+    "target": "<OCR>恩人にまた飯を作るくらいは許されるだろ?<FURI>おんじん にまた めし を つくる くらいは ゆるさ れるだろ ?<TRANS>i'm allowed to cook food for my saviour, right?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001285.jpg",
+    "target": "<OCR>指を墓に供えるなど...!!<FURI>ゆび を はか に そなえ るなど . . . ! !<TRANS>you bring their fingers as offerings..!!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000313.jpg",
+    "target": "<OCR>ああ<FURI>ああ<TRANS>yeah.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000224.jpg",
+    "target": "<OCR>くたばれ<FURI>くたばれ<TRANS>die.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000096.jpg",
+    "target": "<OCR>仕事が減って金もなくなって焼きが回ったのか<FURI>しごと が へっ て きん もなくなって やき が まわっ たのか<TRANS>He had less job, less money and <EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000186.jpg",
+    "target": "<OCR>まさか目が悪かった彼にも気づけまい<FURI>まさか め が わるか った かれ にも きづ けまい<TRANS>with his eyes, it was impossible for him to notice<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001010.jpg",
+    "target": "<OCR>あまり見ない方がいいと言われて...<FURI>あまり みな い ほうが いいと いわ れて . . .<TRANS>it would be better not to ...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001043.jpg",
+    "target": "<OCR>アタシは認めないわ!!<FURI>あたし は みとめ ないわ ! !<TRANS>I'm not allowing her to make me up!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000283.jpg",
+    "target": "<OCR>どうしてよ!!<FURI>どうしてよ ! !<TRANS>why!!!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001487.jpg",
+    "target": "<OCR>…<FURI>…<TRANS>...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000741.jpg",
+    "target": "<OCR>よかった...<FURI>よかった . . .<TRANS>thank god...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000817.jpg",
+    "target": "<OCR>かっこいい?!<FURI>かっこいい ? !<TRANS>cool?!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001195.jpg",
+    "target": "<OCR>枢さんっ<FURI>すう さんっ<TRANS>Kururu-san!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000877.jpg",
+    "target": "<OCR>てんちょお...<FURI>てんちょお . . .<TRANS>tencho...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001197.jpg",
+    "target": "<OCR>おかげで<FURI>おかげで<TRANS>The makeup brushes you\nlent me.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000538.jpg",
+    "target": "<OCR>なんでこんな無駄なことを...!!<FURI>なんでこんな むだ なことを . . . ! !<TRANS>why are you sacrificing yourself for this waste..?!!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001103.jpg",
+    "target": "<OCR>姉のことを悪く思っていたりしないんですか<FURI>あね のことを わるく おもって いたりしないんですか<TRANS>don't you think ill of my sister?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001567.jpg",
+    "target": "<OCR>ふん<FURI>ふん<TRANS>hmm<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000505.jpg",
+    "target": "<OCR>作業後は決まって探しに行きやがる...<FURI>さぎょう のち は きま って さがし に いき やがる . . .<TRANS>she's been looking for it everyday after our regular process<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001584.jpg",
+    "target": "<OCR>千歳の想いが<FURI>ちとせ の おもい が<TRANS>the millennium's worth affection<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000542.jpg",
+    "target": "<OCR>無駄とかじゃないんです...<FURI>むだ とかじゃないんです . . .<TRANS>it's not wasteful.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000292.jpg",
+    "target": "<OCR>ウチに雇ってほしいそうじゃないか<FURI>うち に やとっ てほしいそうじゃないか<TRANS>i heard you wanted us to hire you?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000939.jpg",
+    "target": "<OCR>んメルの傘は?<FURI>ん める の かさ は ?<TRANS>where's your umbrella?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001316.jpg",
+    "target": "<OCR>ナオ尚ーー<FURI>なお たかしーー<TRANS>furthermore<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000810.jpg",
+    "target": "<OCR>みてみて!<FURI>みてみて !<TRANS>look, look!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001022.jpg",
+    "target": "<OCR>どうです?<FURI>どうです ?<TRANS>what do you think?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001342.jpg",
+    "target": "<OCR>ここら一帯の人間は<FURI>ここら いったい の にんげん は<TRANS>the humans in this area ...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000435.jpg",
+    "target": "<OCR>宇宙飛行士目指してるなら知ってんだろ<FURI>うちゅうひこうし めざし てるなら しって んだろ<TRANS>if you're aspiring to be an astronaut, then you must know...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000644.jpg",
+    "target": "<OCR>ひっ<FURI>ひっ<TRANS>who is stupid!!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001470.jpg",
+    "target": "<OCR>お、お前は...<FURI>お 、 お まえ は . . .<TRANS>you're...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001161.jpg",
+    "target": "<OCR>お姉ちゃんのすべてを受け止める覚悟なら<FURI>お ねえちゃん のすべてを うけ やめる かくご なら<TRANS>I'm ready to accept everything about my sister<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000432.jpg",
+    "target": "<OCR>だからどうしても自分で写真を撮りたいんです<FURI>だからどうしても じぶん で しゃしん を とり たいんです<TRANS>that's why i have to take the photo myself.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000135.jpg",
+    "target": "<OCR>銃と閉じ眼しかないというのに<FURI>じゅう と とじ め しかないというのに<TRANS>if I put down my guns...?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000548.jpg",
+    "target": "<OCR>園山...<FURI>そのやま . . .<TRANS>Sonoyama ...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000821.jpg",
+    "target": "<OCR>あぁそうそう<FURI>あぁそうそう<TRANS>oh, and...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000646.jpg",
+    "target": "<OCR>お前っ<FURI>お ぜんっ<TRANS>you..!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001575.jpg",
+    "target": "<OCR>いつまた己を見失いお前を傷つけるかわからぬ<FURI>いつまた おのれ を みうしない お まえ を きずつ けるかわからぬ<TRANS>but i could lose sanity anytime.\nI could even hurt you again.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000469.jpg",
+    "target": "<OCR>お手伝い<FURI>お てつだい<TRANS>thank you<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000114.jpg",
+    "target": "<OCR>なんで銃なんか持って旅してんだい<FURI>なんで じゅう なんか もっ て たび してんだい<TRANS>why did you take your gun with you?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000664.jpg",
+    "target": "<OCR>迷惑かけてごめんなさい<FURI>めいわく かけてごめんなさい<TRANS>i'm sorry for all the trouble<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001402.jpg",
+    "target": "<OCR>今さら俺の刀は鈍らぬ<FURI>いまさ ら おれ の かたな は なまら ぬ<TRANS>not nearly enough to slow down my sword<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000449.jpg",
+    "target": "<OCR>手伝いはちゃんとするよ<FURI>てつだい はちゃんとするよ<TRANS>i'll help you anyway.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001140.jpg",
+    "target": "<OCR>でも<FURI>でも<TRANS>but now<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001409.jpg",
+    "target": "<OCR>いいぞ在藤<FURI>いいぞ ざい ふじ<TRANS>good, arifuji<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001310.jpg",
+    "target": "<OCR>どうした<FURI>どうした<TRANS>what's wrong?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000552.jpg",
+    "target": "<OCR>吐きそう<FURI>はき そう<TRANS>i feel like throwing up<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000777.jpg",
+    "target": "<OCR>そうだな<FURI>そうだな<TRANS>yeah.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000946.jpg",
+    "target": "<OCR>...狭くない?<FURI>. . . せまく ない ?<TRANS>it's small, isn't it?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000334.jpg",
+    "target": "<OCR>夢の翼は<FURI>ゆめ の つばさ は<TRANS>the wings of dreams,<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001586.jpg",
+    "target": "<OCR>なるほど...<FURI>なるほど . . .<TRANS>i see...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001493.jpg",
+    "target": "<OCR>傷口を<FURI>きずぐち を<TRANS>she's burning..<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001093.jpg",
+    "target": "<OCR>そして三つ目は<FURI>そして みっつ め は<TRANS>and third...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000350.jpg",
+    "target": "<OCR>なのになぜ三流大の推薦なんかを狙う?<FURI>なのになぜ さんりゅう だい の すいせん なんかを ねらう ?<TRANS>why get recommendation letters for a third tiered college?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001300.jpg",
+    "target": "<OCR>悪鬼が憎い<FURI>あっき が にくい<TRANS>hate the demons as much as you do<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001247.jpg",
+    "target": "<OCR><FURI><TRANS>Demon hunting<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000146.jpg",
+    "target": "<OCR>レーネさーん今あがりましたー<FURI>れーね さーん いま あがりましたー<TRANS>I'm done!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001327.jpg",
+    "target": "<OCR>今宵、俺の悲願を果たす<FURI>こよい 、 おれ の ひがん を はた す<TRANS>tonight, i shall get my revenge<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001399.jpg",
+    "target": "<OCR>宏也!!<FURI>こうや ! !<TRANS>hiroya!!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001437.jpg",
+    "target": "<OCR>憎悪の刃が俺を貫き復讐の妄執がお前を支配したときーー<FURI>ぞうお の は が おれ を つらぬき ふくしゅう の もうしゅう がお まえ を しはい したときーー<TRANS>When the blade of hatred pierces me and the obsession for revenge dominates you--<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000546.jpg",
+    "target": "<OCR>私の...<FURI>わたし の . . .<TRANS>my...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001372.jpg",
+    "target": "<OCR>この疼きがおさまるまで<FURI>この うずき がおさまるまで<TRANS>until the throbbing fades<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000429.jpg",
+    "target": "<OCR>私の夢が<FURI>わたし の ゆめ が<TRANS>is because my dream<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000727.jpg",
+    "target": "<OCR>これは...<FURI>これは . . .<TRANS>maybe...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000758.jpg",
+    "target": "<OCR>へいき!<FURI>へいき !<TRANS>it's fine!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000333.jpg",
+    "target": "<OCR>汽車が出るよ<FURI>きしゃ が でる よ<TRANS>the train's leaving.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000747.jpg",
+    "target": "<OCR>これで店員らしくなったかな<FURI>これで てんいん らしくなったかな<TRANS>now you look much more like a staff.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001301.jpg",
+    "target": "<OCR>あの日不意を突かれてお前たちを守れなかったこと<FURI>あの にち ふい を つか れてお まえ たちを まもれ なかったこと<TRANS>the day we were attacked, i couldn't protect all of you.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000928.jpg",
+    "target": "<OCR>雪...?<FURI>ゆき . . . ?<TRANS>snow...?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001550.jpg",
+    "target": "<OCR>お前が無駄にしたものの味<FURI>お まえ が むだ にしたものの あじ<TRANS>you've wasted all my precious food<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001544.jpg",
+    "target": "<OCR>もったいない<FURI>もったいない<TRANS>what a waste.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000206.jpg",
+    "target": "<OCR>つけられたのか?<FURI>つけられたのか ?<TRANS>were you followed by him?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001571.jpg",
+    "target": "<OCR>しばらくは尻に敷かせてもらわんとな<FURI>しばらくは しり に しか せてもらわんとな<TRANS>you have to take my orders for a while<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000163.jpg",
+    "target": "<OCR>君のお父上の絵を買われた方が君のことをえらく気に入ってね<FURI>くん のお ちちうえ の え を かわ れた ほうが くん のことをえらく きにいっ てね<TRANS>a customer who bought your father's picture really likes you.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000592.jpg",
+    "target": "<OCR>失敗したらすべて失っちまう<FURI>しっぱい したらすべて うっ ちまう<TRANS>that you may lose everything you ever worked for<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000466.jpg",
+    "target": "<OCR>......<FURI>. . . . . .<TRANS>...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001354.jpg",
+    "target": "<OCR>在藤宏也<FURI>ざい ふじ こうや<TRANS>hiroya arifuji<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000093.jpg",
+    "target": "<OCR>金になるからって女の裸ばかり描いてトルティヤーに卸してた<FURI>きん になるからって おんな の はだか ばかり えがい て とるてぃやー に おろし てた<TRANS>he kept drawing naked woman to sell them to the tortillanos.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000142.jpg",
+    "target": "<OCR>も、もうあがったのかい?<FURI>も 、 もうあがったのかい ?<TRANS>you're done already?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001442.jpg",
+    "target": "<OCR>次の一太刀だ<FURI>つぎの かずた かたな だ<TRANS>the next sword, the glory.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000393.jpg",
+    "target": "<OCR>さっそく本題に入りたいのですがーー<FURI>さっそく ほんだい に いり たいのですがーー<TRANS>let's get into the main topic ...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001182.jpg",
+    "target": "<OCR>腕を磨きなさい!<FURI>うで を みがき なさい !<TRANS>So keep on practicing!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000740.jpg",
+    "target": "<OCR>もちろん<FURI>もちろん<TRANS>of course.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001266.jpg",
+    "target": "<OCR>きっとあの日に違いない<FURI>きっとあの にち に ちがい ない<TRANS>must have come from that day.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001287.jpg",
+    "target": "<OCR>家族への手向けだ<FURI>かぞく への たむけ だ<TRANS>..dedicate these fingers to my family<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000600.jpg",
+    "target": "<OCR>飛べなかったとき<FURI>とべ なかったとき<TRANS>you may not be able to fly,<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001130.jpg",
+    "target": "<OCR>お姉ちゃんなんて<FURI>お ねえちゃん なんて<TRANS>I hate you!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000161.jpg",
+    "target": "<OCR>そんな君にも買い手がついたんだ<FURI>そんな くん にも かいて がついたんだ<TRANS>you've got a buyer.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000775.jpg",
+    "target": "<OCR>へいき!<FURI>へいき !<TRANS>i'm fine!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000255.jpg",
+    "target": "<OCR>こいつっ明かりを...<FURI>こいつっ あかり を . . .<TRANS>he's got the lights!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001098.jpg",
+    "target": "<OCR>ふふ<FURI>ふふ<TRANS>ha ha<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000940.jpg",
+    "target": "<OCR>あ<FURI>あ<TRANS>ah<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001494.jpg",
+    "target": "<OCR>焼いたーー!?<FURI>やい たーー ! ?<TRANS>her wound--!?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000088.jpg",
+    "target": "<OCR>ああ...<FURI>ああ . . .<TRANS>ah...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000541.jpg",
+    "target": "<OCR>ちがう<FURI>ちがう<TRANS>you're wrong.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001236.jpg",
+    "target": "<OCR>否<FURI>ひ<TRANS>no.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000704.jpg",
+    "target": "<OCR>...<FURI>. . .<TRANS>...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000735.jpg",
+    "target": "<OCR>おばあちゃんが店長さんにもどうぞって!<FURI>おばあちゃんが てんちょう さんにもどうぞって !<TRANS>the old lady told me to give some to you!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000198.jpg",
+    "target": "<OCR>シオラッ!?<FURI>しおらっ ! ?<TRANS>siora?!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000778.jpg",
+    "target": "<OCR>とりあえずメルの服買わないとな<FURI>とりあえず める の ふく かわ ないとな<TRANS>but first, we have to buy your clothes.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000189.jpg",
+    "target": "<OCR>待てよ...じゃあ父さんは...<FURI>まて よ . . . じゃあ とうさん は . . .<TRANS>wait, then was my father...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001582.jpg",
+    "target": "<OCR>平安の世より在藤に仕えて<FURI>へいあん の よ より ざい ふじ に つかえ て<TRANS>I've served the house of arifuji since the heian period<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000689.jpg",
+    "target": "<OCR>ボクお腹壊してよかったよ...<FURI>ぼく お はら こわし てよかったよ . . .<TRANS>i was lucky that i had a stomachache...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000440.jpg",
+    "target": "<OCR>失敗して色んな人が苦しんだんだ<FURI>しっぱい して いろんな にん が くるし んだんだ<TRANS>a lot of people suffered from failure.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000318.jpg",
+    "target": "<OCR>あんたの行くとこ<FURI>あんたの いく とこ<TRANS>wherever you're going<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001557.jpg",
+    "target": "<OCR>だが<FURI>だが<TRANS>but...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000696.jpg",
+    "target": "<OCR>うん<FURI>うん<TRANS>yeah.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000865.jpg",
+    "target": "<OCR>同じ?<FURI>おなじ ?<TRANS>the same?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001429.jpg",
+    "target": "<OCR>璋気が古傷に吸い込まれている!?<FURI>しょう きが ふるきず に すいこま れている ! ?<TRANS>the  devilish air is being sucked in to his scar!?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000326.jpg",
+    "target": "<OCR>アンタの手を引けるなんて思っちゃいない<FURI>あんた の て を ひけ るなんて おもっち ゃいない<TRANS>neither do i think i'll be of much help.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001554.jpg",
+    "target": "<OCR>もう知った<FURI>もう しっ た<TRANS>that taste of obsession<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000013.jpg",
+    "target": "<OCR>あ?<FURI>あ ?<TRANS>huh?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000569.jpg",
+    "target": "<OCR>お前が入れた大事なものって<FURI>お まえ が いれ た だいじ なものって<TRANS>the thing that's so important to you.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001206.jpg",
+    "target": "<OCR>?<FURI>?<TRANS>?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000919.jpg",
+    "target": "<OCR>うん任せて!<FURI>うん まかせ て !<TRANS>yeah, leave it to me!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000451.jpg",
+    "target": "<OCR>取らなきゃいけないからな<FURI>とら なきゃいけないからな<TRANS>i still need to get it<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000859.jpg",
+    "target": "<OCR>カエルさんさっきはしょんぼりしてたけど<FURI>かえる さんさっきはしょんぼりしてたけど<TRANS>this frog looked sad back in the store.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001579.jpg",
+    "target": "<OCR>今さら小童の軟弱さなど承知の上だ<FURI>いまさ ら こわっぱ の なんじゃく さなど しょうち の うえだ<TRANS>i'm well aware of your weaknesses.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001436.jpg",
+    "target": "<OCR>宏也私の声を聞け!<FURI>こうや わたし の こえ を きけ !<TRANS>Hiroya Listen to my voice!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001330.jpg",
+    "target": "<OCR>馬鹿な...<FURI>ばか な . . .<TRANS>impossible ...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001466.jpg",
+    "target": "<OCR>鬼の面などつけて<FURI>おに の めん などつけて<TRANS>wearing masks like that<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000407.jpg",
+    "target": "<OCR>面倒くっさい奴人に押しつけてきやがって...!!<FURI>めんどう くっさい やつ にん に おし つけてきやがって . . . ! !<TRANS>leaving me with all the burden...!!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001149.jpg",
+    "target": "<OCR>実際はどうです?<FURI>じっさい はどうです ?<TRANS>how was it actually<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000054.jpg",
+    "target": "<OCR>だがいつまでもこうしてられると思うなよ<FURI>だがいつまでもこうしてられると おもう なよ<TRANS>but don't think you can stay like this forever.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001232.jpg",
+    "target": "<OCR>...ありがと<FURI>. . . ありがと<TRANS>but thanks<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001034.jpg",
+    "target": "<OCR>でも妹には引かれたくないの<FURI>でも いもうと には ひか れたくないの<TRANS>but i can't stand being hated by my sister!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000476.jpg",
+    "target": "<OCR>変な手応えが...<FURI>へんな てごたえ が . . .<TRANS>a weird feel...?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000447.jpg",
+    "target": "<OCR>大切な夢ですから<FURI>たいせつ な ゆめ ですから<TRANS>my precious dream<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000191.jpg",
+    "target": "<OCR>可哀想だからあの世に送ってやったよ!<FURI>かわいそう だからあの よに おくっ てやったよ !<TRANS>i couldn't help but take his non-valuable life!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000061.jpg",
+    "target": "<OCR>なるほど<FURI>なるほど<TRANS>i see.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000065.jpg",
+    "target": "<OCR>...ん?確かにビルの背丈はそのくらいだが<FURI>. . . ん ? たしかに びる の せたけ はそのくらいだが<TRANS>...wait a second. Bill's height is actually around 7, but<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000864.jpg",
+    "target": "<OCR>ボクとおんなじだ<FURI>ぼく とおんなじだ<TRANS>he's just like me.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001209.jpg",
+    "target": "<OCR>貴女に贈ろうとしていた誕生日プレゼントです<FURI>あなた に おくろ うとしていた たんじょうび ぷれぜんと です<TRANS>Tsubame-san was going to give these to you as birthday present.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000178.jpg",
+    "target": "<OCR>ど...<FURI>ど . . .<TRANS>what the...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001116.jpg",
+    "target": "<OCR>でも私お姉ちゃんと喧嘩しちゃった<FURI>でも わたし お ねえちゃん と けんか しちゃった<TRANS>but we had a quarrel<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001516.jpg",
+    "target": "<OCR>その心にあった想いを<FURI>その こころ にあった おもい を<TRANS>the thoughts you had in your heart<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001385.jpg",
+    "target": "<OCR>よくぞここまで<FURI>よくぞここまで<TRANS>oh  my<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000209.jpg",
+    "target": "<OCR>匂いですよ<FURI>におい ですよ<TRANS>it's the smell.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001508.jpg",
+    "target": "<OCR>この愛は<FURI>この あい は<TRANS>this love...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000285.jpg",
+    "target": "<OCR>こいつは父さんをっ...<FURI>こいつは とうさん をっ . . .<TRANS>he killed my father...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000457.jpg",
+    "target": "<OCR>えっそうなんですか!?<FURI>えっそうなんですか ! ?<TRANS>is that so?<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000501.jpg",
+    "target": "<OCR>さっきから聞いてりゃ<FURI>さっきから きい てりゃ<TRANS>from the very beginning<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000563.jpg",
+    "target": "<OCR>結局試作機は見つかりませんでした...<FURI>けっきょく しさくき は みつ かりませんでした . . .<TRANS>in the end, I couldn't find out the prototype model...<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001518.jpg",
+    "target": "<OCR>私がいつもそばにいることを<FURI>わたし がいつもそばにいることを<TRANS>i'll always be there for you.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000051.jpg",
+    "target": "<OCR>ひっひどい!<FURI>ひっひどい !<TRANS>how dare you!<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\000228.jpg",
+    "target": "<OCR>くそっ構えろ<FURI>くそっ かまえ ろ<TRANS>damn it, get ready.<EOS>"
+  },
+  {
+    "image": "E:\\japanread\\dataset\\raw\\cropped\\001309.jpg",
+    "target": "<OCR>伝令!<FURI>でんれい !<TRANS>beep<EOS>"
+  }
+]
